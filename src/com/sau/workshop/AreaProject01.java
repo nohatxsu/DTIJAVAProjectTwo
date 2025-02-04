@@ -49,10 +49,10 @@ public class AreaProject01 {
             areacircle = Math.PI * Math.pow(radius, 2);
 
             System.out.println("Area of Circle is: " + of.format(areacircle));
-            System.out.println("++++++++++++++++++++++++++++");
+            System.out.print("++++++++++++++++++++++++++++");
         } else {
             System.out.println("Invalid selection. Thank you, bye-bye.");
-            System.out.println("++++++++++++++++++++++++++++");
+            System.out.print("++++++++++++++++++++++++++++");
         }
     }
 }
